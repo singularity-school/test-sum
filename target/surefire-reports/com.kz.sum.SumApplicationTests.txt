@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.kz.sum.SumApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 10, Errors: 0, Skipped: 0, Time elapsed: 2.585 s <<< FAILURE! - in com.kz.sum.SumApplicationTests
-com.kz.sum.SumApplicationTests.test10  Time elapsed: 1.094 s  <<< FAILURE!
+Tests run: 10, Failures: 10, Errors: 0, Skipped: 0, Time elapsed: 2.707 s <<< FAILURE! - in com.kz.sum.SumApplicationTests
+com.kz.sum.SumApplicationTests.test10  Time elapsed: 1.181 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <0> but was: <-1>
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
 	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
@@ -83,7 +83,7 @@ org.opentest4j.AssertionFailedError: expected: <0> but was: <-1>
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-com.kz.sum.SumApplicationTests.test1  Time elapsed: 0.004 s  <<< FAILURE!
+com.kz.sum.SumApplicationTests.test1  Time elapsed: 0.003 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <6> but was: <-1>
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
 	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
@@ -245,7 +245,7 @@ org.opentest4j.AssertionFailedError: expected: <102> but was: <-1>
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-com.kz.sum.SumApplicationTests.test3  Time elapsed: 0.002 s  <<< FAILURE!
+com.kz.sum.SumApplicationTests.test3  Time elapsed: 0.005 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <394> but was: <-1>
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
 	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
@@ -326,7 +326,7 @@ org.opentest4j.AssertionFailedError: expected: <394> but was: <-1>
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-com.kz.sum.SumApplicationTests.test4  Time elapsed: 0.003 s  <<< FAILURE!
+com.kz.sum.SumApplicationTests.test4  Time elapsed: 0.002 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <320> but was: <-1>
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
 	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
@@ -407,7 +407,7 @@ org.opentest4j.AssertionFailedError: expected: <320> but was: <-1>
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-com.kz.sum.SumApplicationTests.test5  Time elapsed: 0.003 s  <<< FAILURE!
+com.kz.sum.SumApplicationTests.test5  Time elapsed: 0.002 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <435> but was: <-1>
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
 	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
